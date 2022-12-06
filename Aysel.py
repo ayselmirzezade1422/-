@@ -1,5 +1,4 @@
 my_lst = ['hello', '2', 'word', ':-)']
-
 new_lst = []
 
 for elem in my_lst:
